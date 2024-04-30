@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Developer**
 
-- 👨‍💻 All of my projects are available at [ncthetruht.github.io](ncthetruht.github.io)
+- 👨‍💻 All of my projects are available at [ncthetruht.github.io](ncthetruth.github.io)
 
 - 💬 Ask me about **Data Science**
 
