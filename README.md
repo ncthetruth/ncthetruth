@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [ncthetruht.github.io](ncthetruth.github.io)
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Analytic**
 
 - ⚡ Fun fact **I'm confused about why I became a programmer**
 
