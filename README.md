@@ -3,11 +3,11 @@
 
 # 💫 About Me:
 ### 🔭 I’m currently working on Accelist Lentera Indonesia
-### 🌱 I’m currently learning Full Stack Developer
+### 🌱 I’m currently learning Full Stack Development
 ### 👨‍💻 All of my projects are available at [ncthetruth.github.io](https://ncthetruth.github.io)
 ### 💬 Ask me about Data Analytic, Machine Learning and Cyber Security
+### 🛡️ Interested in Reverse Engineering and preventing Cyber Attacks  
 ### ⚡ Fun fact I'm confused about why I became a programmer
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
