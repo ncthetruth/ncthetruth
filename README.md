@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nicholas Christopher</h1>
-<h3 align="center">Full Stack Developer Intern and Data Enthusiast</h3>
+<h3 align="center">Full Stack Developer and Data Enthusiast</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Accelist Lentera Indonesia<br><br>🌱 I’m currently learning Full Stack Developer<br><br>👨‍💻 All of my projects are available at ncthetruth.github.io<br><br>💬 Ask me about Data Analytic, Machine Learning and Cyber Scurity<br><br>⚡ Fun fact I'm confused about why I became a programmer
