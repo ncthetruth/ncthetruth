@@ -2,7 +2,11 @@
 <h3 align="center">Full Stack Developer and Data Enthusiast</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Accelist Lentera Indonesia<br><br>🌱 I’m currently learning Full Stack Developer<br><br>👨‍💻 All of my projects are available at ncthetruth.github.io<br><br>💬 Ask me about Data Analytic, Machine Learning and Cyber Scurity<br><br>⚡ Fun fact I'm confused about why I became a programmer
+### 🔭 I’m currently working on Accelist Lentera Indonesia
+### 🌱 I’m currently learning Full Stack Developer
+### 👨‍💻 All of my projects are available at [ncthetruth.github.io](https://ncthetruth.github.io)
+### 💬 Ask me about Data Analytic, Machine Learning and Cyber Security
+### ⚡ Fun fact I'm confused about why I became a programmer
 
 
 <h3 align="left">Connect with me:</h3>
