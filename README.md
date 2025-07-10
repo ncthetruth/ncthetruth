@@ -4,7 +4,7 @@
 # 💫 About Me:
 ### 🔭 I’m currently working on Accelist Lentera Indonesia
 ### 🌱 I’m currently learning Full Stack Development
-### 🖐️ I’m FiveM Server Developer Special in Qbox
+### 🖐️ I’m FiveM Developer Special in Qbox and QB Core
 ### 👨‍💻 All of my projects are available at [ncthetruth.github.io](https://ncthetruth.github.io)
 ### 💬 Ask me about Data Analytic, Machine Learning and Cyber Security
 ### 🛡️ Interested in Reverse Engineering and preventing Cyber Attacks  
